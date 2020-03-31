@@ -36,4 +36,4 @@ This command should be used instead of `make serve`.
 
 * `make test.accessibility`
 
-A problem with CucumberJS, doesn't make it possible for tests to run in a Docker container currently.
+A problem with CucumberJS doesn't make it possible for `make test.features` tests to successfully run in a Docker container currently.
