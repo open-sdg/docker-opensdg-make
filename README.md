@@ -10,6 +10,8 @@ docker pull opensdg/make:0.3
 
 ## Create container from image
 
+From `open-sdg` root:
+
 ```bash
 docker run -it --rm \
 -p 4000:4000 \
